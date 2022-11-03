@@ -109,7 +109,7 @@ h6 {
   font-size: 18px;
   display: inline-block;
   background: #0066ff;
-  color: #fff;
+  color: rgb(255, 255, 255);
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -121,8 +121,8 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #ff0000;
-  color: #fff;
+  background: #0066ff;
+  color: #00aeff;
   text-decoration: none;
 }
 
@@ -163,7 +163,7 @@ h6 {
 .nav-menu a:focus {
   display: flex;
   align-items: center;
-  color: #0015ff;
+  color: #008cff;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -203,7 +203,7 @@ h6 {
   transition: all 0.4s;
   outline: none !important;
   background-color: #149ddd;
-  color: #fff;
+  color:floralwhite;
   width: 40px;
   height: 40px;
   display: inline-flex;
@@ -254,21 +254,21 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: rgb(0, 132, 255);
 }
 
 #hero p {
-  color: #fff;
+  color: rgb(255, 255, 255);
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
 
 #hero p span {
-  color: #fff;
+  color: rgb(255, 255, 255);
   padding-bottom: 4px;
   letter-spacing: 1px;
-  border-bottom: 3px solid #ff0000;
+  border-bottom: 3px solid #0051ff;
 }
 
 @media (min-width: 1024px) {
